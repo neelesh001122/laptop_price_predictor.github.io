@@ -1,0 +1,4 @@
+streamlit
+sklearn
+
+to run type "streamlit run app.py" in terminal to open the app in streamlit 
